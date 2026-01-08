@@ -1,6 +1,9 @@
 import * as React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
+/**
+ * Composant du pied de page (Footer)
+ */
 export default function AppFooter() {
     return (
         <View style={styles.footer}>
